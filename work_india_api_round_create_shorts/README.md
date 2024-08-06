@@ -1,11 +1,12 @@
-# VJTI_Todo
+work_india_inshorts_M_Pavan_Ganesh
 API  round for workindia
 
 
 
 - Clone this repo on your desktop
 - Open command line/terminal in your machine
-
+- install all the necessary files
+- 
 - Run the command ``` python app.py ``` 
 
 - Open a browser(Chrome, firefox etc)
@@ -21,6 +22,8 @@ API  round for workindia
 - To see the shorts feed go to "(http://localhost:5000/api/shorts/feed)"
 
 - To see the shorts filter go to "http://localhost:5000/api/shorts/filter"
+  
+-install mysql and create the databases as below
 
 databases created as:
 users:
